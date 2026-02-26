@@ -48,4 +48,4 @@ The total gear ratio in a multi-stage gear train is calculated by multiplying th
 This system demonstrates controlled speed reduction through sequential gear engagement.
 
 ## Onshape Link
-[View Gear Train on Onshape]([PUT_ONSHAPE_LINK_HERE](https://cad.onshape.com/documents/e2b9aa52b8b5935b0875581e/w/d9bfeebb27c4503765ab7496/e/3a714362df7bc619285ba3e3?renderMode=0&uiState=699fdf5aefc521e560e408f7))
+[View Gear Train on Onshape](https://cad.onshape.com/documents/e2b9aa52b8b5935b0875581e/w/d9bfeebb27c4503765ab7496/e/3a714362df7bc619285ba3e3?renderMode=0&uiState=699fdf5aefc521e560e408f7)
