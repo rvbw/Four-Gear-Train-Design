@@ -1,6 +1,6 @@
-# Four-Gear Train Design with 1:18 Gear Ratio
+# Four-Gear Train Design
 
-![Four Gear Train Assembly](images/assembly.png)
+![Four Gear Train Assembly](imeges/gears-relation.png)
 
 ## Overview
 This project presents the **design and mechanical assembly of a four-gear train system**.  
